@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Miki Hoshi",
-    img: "2NXc5pQ.png",
+    img: "Khki9J5.jpeg",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
       stage: ["st4", "ex"]
@@ -205,7 +205,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hibiki Sakura",
-    img: "gdJmxOn.png",
+    img: "4QlVJIU.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
       stage: ["st4", "ex"]
