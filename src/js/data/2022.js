@@ -76,14 +76,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ako (NetoGe)",
-    img: "aHtpnXg.jpg",
-    opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4", "ex"]
-    }
-  },
-  {
     name: "Anna",
     img: "wLgQOe3.png",
     opts: {
@@ -118,14 +110,6 @@ dataSet[dataSetVersion].characterData = [
     {
     name: "Hibiki",
     img: "kpXQ7UE.png",
-    opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4", "ex"]
-    }
-  },
-    {
-    name: "Hibiki Sakura",
-    img: "gdJmxOn.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
       stage: ["st4", "ex"]
